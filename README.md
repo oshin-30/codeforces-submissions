@@ -6,3 +6,4 @@ Daily Codeforces practice in Java.
 
 * 4A - Watermelon
 * 71A - Way Too Long Words
+* 2233A - AI Project Development
