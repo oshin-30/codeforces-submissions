@@ -8,3 +8,4 @@ Daily Codeforces practice in Java.
 * 71A - Way Too Long Words
 * 2233A - AI Project Development
 * 231A - Team
+* 158A - Next Round
