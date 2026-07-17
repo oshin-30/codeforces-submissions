@@ -9,3 +9,4 @@ Daily Codeforces practice in Java.
 * 2233A - AI Project Development
 * 231A - Team
 * 158A - Next Round
+* 282A - Bit++
