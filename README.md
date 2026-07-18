@@ -10,3 +10,4 @@ Daily Codeforces practice in Java.
 * 231A - Team
 * 158A - Next Round
 * 282A - Bit++
+* 112A - Petya and Strings
