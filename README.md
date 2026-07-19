@@ -11,3 +11,4 @@ Daily Codeforces practice in Java.
 * 158A - Next Round
 * 282A - Bit++
 * 112A - Petya and Strings
+* 339A - Helpful Maths
