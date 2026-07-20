@@ -12,3 +12,4 @@ Daily Codeforces practice in Java.
 * 282A - Bit++
 * 112A - Petya and Strings
 * 339A - Helpful Maths
+* 263A - Beautiful Matrix
