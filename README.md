@@ -13,3 +13,4 @@ Daily Codeforces practice in Java.
 * 112A - Petya and Strings
 * 339A - Helpful Maths
 * 263A - Beautiful Matrix
+* 59A - Word
