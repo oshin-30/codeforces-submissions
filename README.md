@@ -14,3 +14,4 @@ Daily Codeforces practice in Java.
 * 339A - Helpful Maths
 * 263A - Beautiful Matrix
 * 59A - Word
+* 236A - Boy or Girl
