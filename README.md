@@ -15,3 +15,4 @@ Daily Codeforces practice in Java.
 * 263A - Beautiful Matrix
 * 59A - Word
 * 236A - Boy or Girl
+* 266A - Stones on the Table
