@@ -17,3 +17,4 @@ Daily Codeforces practice in Java.
 * 236A - Boy or Girl
 * 266A - Stones on the Table
 * 977A - Wrong Subtraction
+* 791 - Bear and Big Brother
