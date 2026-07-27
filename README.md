@@ -18,3 +18,4 @@ Daily Codeforces practice in Java.
 * 266A - Stones on the Table
 * 977A - Wrong Subtraction
 * 791 - Bear and Big Brother
+* 617A - Elephant
