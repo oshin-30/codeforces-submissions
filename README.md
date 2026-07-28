@@ -19,3 +19,4 @@ Daily Codeforces practice in Java.
 * 977A - Wrong Subtraction
 * 791 - Bear and Big Brother
 * 617A - Elephant
+* 546A - Soldier and Bananas
