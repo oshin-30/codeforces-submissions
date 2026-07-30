@@ -21,3 +21,4 @@ Daily Codeforces practice in Java.
 * 617A - Elephant
 * 546A - Soldier and Bananas
 * 1030A - In Search of an Easy Problem
+* 136A - Presents
