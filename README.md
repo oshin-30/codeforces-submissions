@@ -23,3 +23,4 @@ Daily Codeforces practice in Java.
 * 1030A - In Search of an Easy Problem
 * 136A - Presents
 * 116A - Tram
+* 705A - Hulk
