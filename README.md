@@ -24,3 +24,4 @@ Daily Codeforces practice in Java.
 * 136A - Presents
 * 116A - Tram
 * 705A - Hulk
+* 750A - New Year and Hurry
