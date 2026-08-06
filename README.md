@@ -25,3 +25,4 @@ Daily Codeforces practice in Java.
 * 116A - Tram
 * 705A - Hulk
 * 750A - New Year and Hurry
+* 510A - Fox And Snake
