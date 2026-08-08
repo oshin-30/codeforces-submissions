@@ -27,3 +27,4 @@ Daily Codeforces practice in Java.
 * 750A - New Year and Hurry
 * 510A - Fox And Snake
 * 41A - Translation
+* 228A - Is your horseshoe on the other hoof?
