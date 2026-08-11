@@ -30,3 +30,4 @@ Daily Codeforces practice in Java.
 * 228A - Is your horseshoe on the other hoof?
 * 110A - Nearly Lucky Number
 * 266B - Queue at the School
+* 486A - Calculating Function
