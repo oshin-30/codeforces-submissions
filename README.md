@@ -32,3 +32,4 @@ Daily Codeforces practice in Java.
 * 266B - Queue at the School
 * 486A - Calculating Function
 * 520A - Pangram
+* 160A - Twins
