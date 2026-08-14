@@ -33,3 +33,4 @@ Daily Codeforces practice in Java.
 * 486A - Calculating Function
 * 520A - Pangram
 * 160A - Twins
+* 43A - Football
