@@ -35,3 +35,4 @@ Daily Codeforces practice in Java.
 * 160A - Twins
 * 43A - Football
 * 50A - Domino piling
+* 32B - Borze
