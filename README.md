@@ -36,3 +36,4 @@ Daily Codeforces practice in Java.
 * 43A - Football
 * 50A - Domino piling
 * 32B - Borze
+* 451A - Game With Sticks
