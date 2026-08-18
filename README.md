@@ -37,3 +37,4 @@ Daily Codeforces practice in Java.
 * 50A - Domino piling
 * 32B - Borze
 * 451A - Game With Sticks
+* 996A - Hit the Lottery
