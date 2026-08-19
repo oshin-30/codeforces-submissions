@@ -38,3 +38,4 @@ Daily Codeforces practice in Java.
 * 32B - Borze
 * 451A - Game With Sticks
 * 996A - Hit the Lottery
+* 474B - Worms
