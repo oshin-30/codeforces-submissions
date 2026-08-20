@@ -39,3 +39,4 @@ Daily Codeforces practice in Java.
 * 451A - Game With Sticks
 * 996A - Hit the Lottery
 * 474B - Worms
+* 579A - Raising Bacteria
