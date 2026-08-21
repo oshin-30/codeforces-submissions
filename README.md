@@ -40,3 +40,4 @@ Daily Codeforces practice in Java.
 * 996A - Hit the Lottery
 * 474B - Worms
 * 579A - Raising Bacteria
+* 344A - Magnets
