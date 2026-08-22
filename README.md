@@ -41,3 +41,4 @@ Daily Codeforces practice in Java.
 * 474B - Worms
 * 579A - Raising Bacteria
 * 344A - Magnets
+* 996B - World Cup
