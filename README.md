@@ -42,3 +42,4 @@ Daily Codeforces practice in Java.
 * 579A - Raising Bacteria
 * 344A - Magnets
 * 996B - World Cup
+* 443A - Anton and Letters
