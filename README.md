@@ -43,3 +43,4 @@ Daily Codeforces practice in Java.
 * 344A - Magnets
 * 996B - World Cup
 * 443A - Anton and Letters
+* 734A - Anton and Danik
