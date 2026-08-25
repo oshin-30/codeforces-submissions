@@ -44,3 +44,4 @@ Daily Codeforces practice in Java.
 * 996B - World Cup
 * 443A - Anton and Letters
 * 734A - Anton and Danik
+* 732A - Buy a Shovel
