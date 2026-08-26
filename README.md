@@ -45,3 +45,4 @@ Daily Codeforces practice in Java.
 * 443A - Anton and Letters
 * 734A - Anton and Danik
 * 732A - Buy a Shovel
+* 155A - I_love_%username%
