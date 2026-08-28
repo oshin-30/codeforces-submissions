@@ -47,3 +47,4 @@ Daily Codeforces practice in Java.
 * 732A - Buy a Shovel
 * 155A - I_love_%username%
 * 118A - String Task
+* 580A - Kefa and First Steps
