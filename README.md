@@ -48,3 +48,4 @@ Daily Codeforces practice in Java.
 * 155A - I_love_%username%
 * 118A - String Task
 * 580A - Kefa and First Steps
+* 281A - Word Capitalization
