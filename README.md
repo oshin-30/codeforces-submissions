@@ -50,3 +50,4 @@ Daily Codeforces practice in Java.
 * 580A - Kefa and First Steps
 * 281A - Word Capitalization
 * 677A - Vanya and Fence
+* 490A - Team Olympiad
