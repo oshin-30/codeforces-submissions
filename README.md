@@ -51,3 +51,4 @@ Daily Codeforces practice in Java.
 * 281A - Word Capitalization
 * 677A - Vanya and Fence
 * 490A - Team Olympiad
+* 580A - Kefa and Company
