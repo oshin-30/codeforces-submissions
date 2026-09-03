@@ -52,3 +52,4 @@ Daily Codeforces practice in Java.
 * 677A - Vanya and Fence
 * 490A - Team Olympiad
 * 580B - Kefa and Company
+* 271A - Beautiful Year
