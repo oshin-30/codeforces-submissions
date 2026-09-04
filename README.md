@@ -53,3 +53,4 @@ Daily Codeforces practice in Java.
 * 490A - Team Olympiad
 * 580B - Kefa and Company
 * 271A - Beautiful Year
+* 200B - Drinks
