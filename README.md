@@ -55,3 +55,4 @@ Daily Codeforces practice in Java.
 * 271A - Beautiful Year
 * 200B - Drinks
 * 267A - George and Accommodation
+* 61A - Ultra-Fast Mathematician
