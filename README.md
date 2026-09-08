@@ -57,3 +57,4 @@ Daily Codeforces practice in Java.
 * 267A - George and Accommodation
 * 61A - Ultra-Fast Mathematician
 * 1328A - Divisibility Problem
+* 144A - Arrival of the General
