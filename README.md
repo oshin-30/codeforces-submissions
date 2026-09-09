@@ -58,3 +58,4 @@ Daily Codeforces practice in Java.
 * 61A - Ultra-Fast Mathematician
 * 1328A - Divisibility Problem
 * 144A - Arrival of the General
+* 469A - I Wanna Be the Guy
