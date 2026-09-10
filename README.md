@@ -59,3 +59,4 @@ Daily Codeforces practice in Java.
 * 1328A - Divisibility Problem
 * 144A - Arrival of the General
 * 469A - I Wanna Be the Guy
+* 148A - Insomnia cure
