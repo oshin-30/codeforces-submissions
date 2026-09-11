@@ -60,3 +60,4 @@ Daily Codeforces practice in Java.
 * 144A - Arrival of the General
 * 469A - I Wanna Be the Guy
 * 148A - Insomnia cure
+* 785A - Anton and Polyhedrons
