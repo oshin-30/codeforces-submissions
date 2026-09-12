@@ -61,3 +61,4 @@ Daily Codeforces practice in Java.
 * 469A - I Wanna Be the Guy
 * 148A - Insomnia cure
 * 785A - Anton and Polyhedrons
+* 151A - Soft Drinking
