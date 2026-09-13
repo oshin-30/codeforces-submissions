@@ -62,3 +62,4 @@ Daily Codeforces practice in Java.
 * 148A - Insomnia cure
 * 785A - Anton and Polyhedrons
 * 151A - Soft Drinking
+* 141A - Amusing Joke
