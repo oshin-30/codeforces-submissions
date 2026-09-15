@@ -64,3 +64,4 @@ Daily Codeforces practice in Java.
 * 151A - Soft Drinking
 * 141A - Amusing Joke
 * 268A - Games
+* 1742A - Sum
