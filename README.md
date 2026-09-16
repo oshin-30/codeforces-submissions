@@ -65,3 +65,4 @@ Daily Codeforces practice in Java.
 * 141A - Amusing Joke
 * 268A - Games
 * 1742A - Sum
+* 1676A - Lucky?
