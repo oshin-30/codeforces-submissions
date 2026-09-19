@@ -67,3 +67,4 @@ Daily Codeforces practice in Java.
 * 1742A - Sum
 * 1676A - Lucky?
 * 427A - Police Recruits
+* 1899A - Game with Integers
